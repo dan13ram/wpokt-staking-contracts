@@ -1,0 +1,9 @@
+{
+  "owner": "0x3ef8D010f76dc42e7479CF5A914ae45AdE76eb32",
+  "rewardsDistribution": "0x3ef8D010f76dc42e7479CF5A914ae45AdE76eb32",
+  "rewardsToken": "0x909ef0b6cF52B7cB2B3390F7e8147997E3A2E52D",
+  "stakingToken": "0xb5adeaa28209b9dc0a9cac380b6f3ad59744c7ca",
+  "stakingRewards": "0xAC5bA933060F24ab8ffCC09583Fa65062365A233",
+  "blockNumber": 9825476,
+  "transactionHash": "0xf17797250dc5a4f7b8df5b09475b394df6506109e258abedd56167273d0106c3"
+}
