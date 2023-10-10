@@ -1,0 +1,9 @@
+{
+  "owner": "0x2f16615234827eE4dF14d02d40C24E6a258dD360",
+  "rewardsDistribution": "0x2f16615234827eE4dF14d02d40C24E6a258dD360",
+  "rewardsToken": "0x67F4C72a50f8Df6487720261E188F2abE83F57D7",
+  "stakingToken": "0xa7fd8ff8f4cada298286d3006ee8f9c11e2ff84e",
+  "stakingRewards": "0x3893b6deB66A8BFEBda3333103064668F89Bf9DD",
+  "blockNumber": 18319271,
+  "transactionHash": "0xae0022d5bba694f7dfe743da48270ed4b39cffba96f649122bb63b1e2200e4cc"
+}

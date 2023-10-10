@@ -12,7 +12,7 @@ const config = {
     "0x2f16615234827eE4dF14d02d40C24E6a258dD360", // owner
     "0x2f16615234827eE4dF14d02d40C24E6a258dD360", // rewardsDistribution
     "0x67F4C72a50f8Df6487720261E188F2abE83F57D7", // rewardsToken
-    "", // stakingToken
+    "0xa7fd8ff8f4cada298286d3006ee8f9c11e2ff84e", // stakingToken
   ],
 };
 
